@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devesh giri
+- 👋 Hi, I’m @Devesh
 - 👀 I’m interested in embedded system programming
 - 🌱 I’m currently working in Honeywell technology solutions as an embedded engineer
 - 💞️ I’m looking to collaborate with much like minded people
