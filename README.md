@@ -16,12 +16,19 @@ Standards: DO-178C, IEC 62304, ISO 14971, FDA regulations
 Philips Global Business Services – Hyderabad, IND
 Software Technologist - Embedded (Nov 2023 - Present)
 🛠️ Led critical defect analysis as the primary embedded engineer for the A40 BiPAP ventilator CAPA team.
+
 🔍 Executed root cause analysis on 7 high-priority field issues, implementing fault tree methodology to reduce critical ARM exceptions.
+
 🐛 Debugged 4 critical ARM exceptions (Hard, Bus, Memory, Usage Fault) with JTAG and Segger RTT, reducing field failures and increasing uptime.
+
 ⚙️ Resolved 2 usage faults, 1 memory fault, thread lock issues in I2C and SPI, boosting system stability.
+
 🔄 Analyzed BistThread lock from filesystem errors and identified ARM exceptions, improving fault recovery.
+
 🧪 Optimized O2 sensor drift compensation algorithm using Teten’s equation, saving ~15kB memory.
+
 📑 Drove CAPA remediation and collaborated with cross-functional teams for regulatory compliance.
+
 📈 Improved device reliability, reducing critical ARM exceptions by ~5%.
 
 Carrier Technology India Pvt Ltd – Hyderabad, IND
